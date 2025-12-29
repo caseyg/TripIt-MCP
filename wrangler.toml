@@ -12,5 +12,4 @@ TRIPIT_API_BASE = "https://api.tripit.com/v1"
 
 [[kv_namespaces]]
 binding = "TOKENS"
-id = "placeholder-create-via-wrangler-kv-namespace-create"
-preview_id = "placeholder-for-dev"
+id = "ddcecdc122e142a49b6f3be6b2355861"
